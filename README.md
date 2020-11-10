@@ -1,2 +1,2 @@
 # Mi-primer-proyecto-
-Repositorio significa: 
+Repositorio: es un espacio centralizado donde se almacena, organiza, mantiene y difunde información digital, habitualmente archivos informáticos, que pueden contener trabajos científicos, conjuntos de datos o software. Dicho de otra forma son sistemas de información que preservan y organizan materiales científicos y académicos como apoyo a la investigación y el aprendizaje, a la vez que garantizan el acceso a la información.
